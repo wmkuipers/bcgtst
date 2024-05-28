@@ -8,7 +8,7 @@ title: Sponsoren
 ### Bakkerij van Doorn
 - **Adres 1**: Rietzanger 1, 5271 LN Sint-Michielsgestel
   - Telefoon: 073-5512246
-- **Adres 2**: Campanulastraat 11, 5271 GX Sint-Michielsgestel
+- **Adres 2**: Campanulastraat 111, 5271 GX Sint-Michielsgestel
   - Telefoon: 073-5517701
 - Website: [www.bakkerijvandoorn.nl](http://www.bakkerijvandoorn.nl)
 
